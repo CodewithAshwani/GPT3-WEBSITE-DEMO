@@ -44,6 +44,7 @@ const Footer = () => (
 
     <div className="gpt3__footer-copyright">
       <p>@2021 GPT-3. All rights reserved.</p>
+      <p style={{ marginTop: "8px" }}>Created By Ashwani Gupta</p>
     </div>
   </div>
 );
